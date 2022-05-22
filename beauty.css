@@ -1,0 +1,13 @@
+h1{
+    color: white;
+}
+.bg{
+    background-image: url(bg1.jpg);
+}
+#canvaslol{
+    border-width: 2px;
+	background-color: white;
+	border-style: ridge;
+    
+
+}
